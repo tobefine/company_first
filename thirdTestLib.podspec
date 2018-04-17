@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'thirdTestLib'
- # s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'thirdTestLib'
 
 # This description is used to generate tags and improve search results.
@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'thirdTestLib/Classes/**/*'
+  s.source_files = 'thirdTestLib/**/*'
   
   # s.resource_bundles = {
   #   'thirdTestLib' => ['thirdTestLib/Assets/*.png']
