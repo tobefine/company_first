@@ -1,0 +1,16 @@
+PODS:
+  - thirdTestLib (0.1.0)
+
+DEPENDENCIES:
+  - thirdTestLib (from `../`)
+
+EXTERNAL SOURCES:
+  thirdTestLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  thirdTestLib: 7b5853cbde92f32ef2da0b4efc79afb84dee4ad5
+
+PODFILE CHECKSUM: 01ec947451c140643fedfbf116ed3edac9d0dc95
+
+COCOAPODS: 1.2.1

@@ -7,7 +7,7 @@
 //
 
 #import "lxlViewController.h"
-
+#import "MyGLView.h"
 @interface lxlViewController ()
 
 @end
@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+	[MyGLView layerClass];
 }
 
 - (void)didReceiveMemoryWarning

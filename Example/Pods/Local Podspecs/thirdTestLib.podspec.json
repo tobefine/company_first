@@ -1,0 +1,22 @@
+{
+  "name": "thirdTestLib",
+  "version": "0.1.0",
+  "summary": "A short description of thirdTestLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/274947394@qq.com/thirdTestLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "274947394@qq.com": "123@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/274947394@qq.com/thirdTestLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "thirdTestLib/Classes/**/*"
+}
